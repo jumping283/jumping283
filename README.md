@@ -1,4 +1,6 @@
-### Hi there 👋
+# jumping283
+
+this is an account that has become my main github somehow.
 
 <!--
 **jumping283/jumping283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
